@@ -55,7 +55,7 @@ http://jeonjucraft.or.kr/2019/inner.php?sMenu=A6000&area=0#ar_start
 
 정처없이 걷기
 
-### 그 외 장소
+### 대안이 될 
 
 1. 전주수목원 - 한국도로공사
 2. 전주동물원 - 아쿠아리움
