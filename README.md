@@ -3,12 +3,13 @@
 # 목차
 
 1. [만남 (~ 13:50)](https://github.com/VAIVER/JTP#%EB%A7%8C%EB%82%A8--1350)
+2. [점심식사 (14:10 ~ 15:00)](https://github.com/VAIVER/JTP#%EC%A0%90%EC%8B%AC-%EC%8B%9D%EC%82%AC--1500)
 
 ## 만남 (~ 13:50) 
 
 전라북도 전주시 덕진구 전주천동로 470 (금암동)
 
-## 점심 식사 (~ 15:00)
+## 점심 식사 (14:10 ~ 15:00)
 
 ### 전주 현대옥 콩나물 국밥  
 ![image](https://user-images.githubusercontent.com/111504914/185402089-c9ae4333-783e-415d-a96f-bdd49d28a3d6.png)
