@@ -53,6 +53,8 @@ http://jeonjucraft.or.kr/2019/inner.php?sMenu=A6000&area=0#ar_start
 
 ## 한옥마을 산책 (19:00 ~ 20:10)
 
+정처없이 걷기
+
 ### 그 외 장소
 
 1. 전주수목원 - 한국도로공사
