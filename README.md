@@ -2,7 +2,7 @@
 
 # 목차
 
-1. [만남 (~ 13:50)](https://github.com/VAIVER/JTP#%EB%A7%8C%EB%82%A8--1350)
+1. [만남 (~ 13:50)](#만남-(~-13:50))
 2. [점심식사 (14:10 ~ 15:00)](https://github.com/VAIVER/JTP#%EC%A0%90%EC%8B%AC-%EC%8B%9D%EC%82%AC--1500)
 
 ## 만남 (~ 13:50) 
