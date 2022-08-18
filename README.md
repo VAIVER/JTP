@@ -37,16 +37,21 @@
 http://hanok.jeonju.go.kr/contents/exp3  
 http://jeonjucraft.or.kr/2019/inner.php?sMenu=A6000&area=0#ar_start
 
-
-## 마무리(18:00 ~ ) 
-
-### 한옥마을 근처 주차장에 차를 주차한 후 저녁 식사 하고 한옥마을 산책하기 (상의해볼 것)
-
-#### 주차장
+## 주차장 (17:40 ~ 18:55)
 
 ![image](https://user-images.githubusercontent.com/111504914/185412990-88ce356a-9d4d-4308-9bd8-2f95e1e618b2.png)
-참고자료 : http://hanok.jeonju.go.kr/contents/parking
 
+### 한옥마을 제 1 공용주차장
+주소 : 전라북도 전주시 완산구 남노송동 100-5 (차로 4분 거리)
+
+## 저녁 식사 (18:00 ~ 18:40)
+
+### 한울 식당
+![image](https://user-images.githubusercontent.com/111504914/185423332-ad2d5faa-ceb8-4301-9544-a81b2ea10730.png)
+
+한옥마을 제 1 공용주차장 맞은 편
+
+## 한옥마을 산책 (19:00 ~ 20:10)
 
 ### 그 외 장소
 
