@@ -28,7 +28,9 @@
 
 ### 한옥레일바이크
 주소 : 전라북도 전주시 덕진구 동부대로 420 (차로 12분 거리)  
-비옷 미리 
+비옷 미리 챙길 것
+
+![20220819_104820](https://user-images.githubusercontent.com/111504914/185525010-3c9bbc91-05c1-4772-bd2b-cd4d619bde34.png)
 
 #### 매표소 앞 커피 (15:25 ~ 16:00)
 ![image](https://user-images.githubusercontent.com/111504914/185401648-b9dd0a04-2020-4c64-b207-eaeace438386.png)
