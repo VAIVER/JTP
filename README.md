@@ -46,7 +46,8 @@
 ![image](https://user-images.githubusercontent.com/111504914/185409553-49e00a49-c8c2-4788-bb63-a3b5e7f195f4.png)
 
 주소 : 태조로 15 (차로 10분 거리)  
-전화번호 : 063-282-8841  
+전화번호 (본관): 063-281-1610  
+
 #### *참고 자료
 http://hanok.jeonju.go.kr/contents/exp3  
 http://jeonjucraft.or.kr/2019/inner.php?sMenu=A6000&area=0#ar_start
